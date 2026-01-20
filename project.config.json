@@ -1,0 +1,23 @@
+{
+    "appid": "ttc9acbf1156a12efb07",
+    "projectname": "My project",
+    "unity": {
+        "build": {
+            "webgl": "D:\\work\\ByteGameSDK\\tt-minigame\\webgl_package-20260120_115117.zip",
+            "native": {
+                "il2cpp": "",
+                "apk": "",
+                "fullApk": ""
+            },
+            "instantGame": ""
+        },
+        "publishType": "AndroidNativeOnly",
+        "starkSdkVersion": "Without StarkSDK",
+        "unityToolsVersion": "",
+        "unityEngineVersion": "2022.3.62f2",
+        "arch": ""
+    },
+    "setting": {
+        "urlCheck": true
+    }
+}
